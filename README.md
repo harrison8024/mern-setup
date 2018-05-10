@@ -1,4 +1,4 @@
-#MERN Stack Setup Demo
+# MERN Stack Setup Demo
 
 ## Setup Instructions
 
